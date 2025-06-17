@@ -4,3 +4,12 @@ The primary objective of this project is to design a dynamic Hospital Emergency 
 
 ## Dataset used
 - <a href="https://github.com/Patil123811/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Data.csv">Dataset</a>
+
+## Questions (KPIs)
+- Total number of patients treated
+- Average wait time
+- Patient admission rate
+- Gender and age group analysis
+- Department-wise patient count
+- On-time vs delayed treatment performance
+- Monthly trends and satisfaction scores
